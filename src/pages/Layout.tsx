@@ -59,11 +59,11 @@ const Layout = () => {
     <div>
       <Profile>
         <div>
-          <ProfilePicture src="https://w.namu.la/s/ec10e4a2e44b420a8db263c0d1c5c2324bfc1870ed56f146f2af9c46a988a0b182a3ec0c823fe7ed5f6349051a7a3a6cb2fd90c41333595a4e471b32307fa3c748ee484ca6fef42bcd6cd4e94ca3d60b8f43aa0faa08d66a5924a17dc30053749253ac2ab58349f8e5f18972e036c4b7" />
+          <ProfilePicture src="https://item.kakaocdn.net/do/493188dee481260d5c89790036be0e66effd194bae87d73dd00522794070855d" />
         </div>
         <div>
-          <Name>수정</Name>
-          <Description>제시붐은 온다</Description>
+          <Name>함윤식</Name>
+          <Description>내가 만든 쿠키~</Description>
         </div>
       </Profile>
       <Nav>
